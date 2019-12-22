@@ -1,8 +1,8 @@
 ## Site Meta ##
 # The title of the website.
-title: "tien huynh - test"
+title: "tien"
 # The description of the website
-description: "A Jekyll theme for photographers and photo bloggers."
+description: "testtesttest"
 # Keywords/tags for you site.
 keywords: "lens, jeykll-lens, jekyll, theme, jekyll-theme, photography, blog, photography-blog, photo-blog"
 # Your copyright message.
@@ -10,11 +10,11 @@ copyright: "Copyright &copy; 2017 - Elastic Designs."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Lens"
+header: "tien huynh"
 # 2nd heading/sub heading of the website.
-subheader: "Elastic Designs"
+subheader: "testtesttest"
 # A description/bio of the website.
-bio: "A Jekyll theme for photographers and photo bloggers."
+bio: "testtesttesttesttesttesttesttesttesttesttesttest"
 social:
   # Your Twitter username.
   twitter_username: ""
