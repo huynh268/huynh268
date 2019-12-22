@@ -1,8 +1,8 @@
 ## Site Meta ##
 # The title of the website.
-title: "tien"
+title: "tien huynh - testtesttest"
 # The description of the website
-description: ""
+description: "test description"
 # Keywords/tags for you site.
 keywords: "national-park"
 # Your copyright message.
@@ -31,7 +31,7 @@ social:
 # If you modify this, also modify the `default.scope.path` key below.
 gallery_dir: "gallery"
 # Any valid value of "background-position" CSS attribute.
-image_position: "left center"
+image_position: "right center"
 
 ## Jekyll Configuration ##
 defaults:
