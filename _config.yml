@@ -1,20 +1,20 @@
 ## Site Meta ##
 # The title of the website.
-title: "tien huynh - testtesttest"
+title: "tien huynh - test"
 # The description of the website
-description: "test description"
+description: "A Jekyll theme for photographers and photo bloggers."
 # Keywords/tags for you site.
-keywords: "national-park"
+keywords: "lens, jeykll-lens, jekyll, theme, jekyll-theme, photography, blog, photography-blog, photo-blog"
 # Your copyright message.
 copyright: "Copyright &copy; 2017 - Elastic Designs."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: ""
+header: "Lens"
 # 2nd heading/sub heading of the website.
-subheader: ""
+subheader: "Elastic Designs"
 # A description/bio of the website.
-bio: ""
+bio: "A Jekyll theme for photographers and photo bloggers."
 social:
   # Your Twitter username.
   twitter_username: ""
@@ -23,7 +23,7 @@ social:
   # Your Instagram username.
   instagram_username: ""
   # GitHub username.
-  github_username: ""
+  github_username: "ElasticDesigns"
   # Your email address.
   email: ""
 
@@ -31,7 +31,7 @@ social:
 # If you modify this, also modify the `default.scope.path` key below.
 gallery_dir: "gallery"
 # Any valid value of "background-position" CSS attribute.
-image_position: "right center"
+image_position: "left center"
 
 ## Jekyll Configuration ##
 defaults:
